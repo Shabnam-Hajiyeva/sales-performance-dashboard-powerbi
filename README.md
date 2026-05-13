@@ -1,23 +1,22 @@
 # Retail Sales KPI Dashboard (Power BI)
 
 ## Project Overview
-This project analyzes sales performance using the Superstore dataset.  
-The goal of the dashboard is to identify revenue trends, regional performance, and product profitability.
+This project analyzes retail sales performance using the Superstore dataset. The dashboard was built in Power BI to monitor key KPIs, identify revenue trends, evaluate regional performance, and analyze product profitability.
 
-The dashboard was built in Power BI, with data transformation in Power Query and KPI calculations in DAX.
+Data transformation was performed using Power Query, and KPI calculations were developed using DAX.
 
-## Dataset used
+## Dataset Used
 [Superstore Dataset](superstore_dataset.xlsx)
 
 ---
 
 ## Power BI Dashboard File
-[Download Power Bi Dashboard](sales_dashboard.pbix)
+[Download Power BI Dashboard](sales_dashboard.pbix)
 
 ---
 
 ## Dashboard Preview
-![Sales Performance Dashboard](dashboard_screenshot.png)
+![Retail Sales KPI Dashboard](dashboard_screenshot.png)
 
 ---
 
@@ -29,7 +28,7 @@ The dashboard was built in Power BI, with data transformation in Power Query and
 
 ---
 
-## Dashboard Features
+## Key Dashboard Features
 The dashboard includes the following key metrics and visualizations:
 
 - Total Revenue
