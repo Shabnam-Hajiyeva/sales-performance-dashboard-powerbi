@@ -11,7 +11,7 @@ Data transformation was performed using Power Query, and KPI calculations were d
 ---
 
 ## Power BI Dashboard File
-[Download Power BI Dashboard](sales_dashboard.pbix)
+[Download Power BI Dashboard](retail_sales_kpi_dashboard.pbix)
 
 ---
 
