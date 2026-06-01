@@ -44,9 +44,9 @@ The dashboard includes the following key metrics and visualizations:
 ---
 
 ## Key Insights
-- Technology generates the highest revenue among product categories.
+- Technology generated the highest revenue ($840K), making it the strongest-performing product category.
 - Furniture produces lower profit compared to other categories.
-- The West region leads overall sales performance.
+- The West region generated the highest sales revenue, contributing significantly to overall company performance.
 - Monthly sales trends show overall growth with seasonal variation.
 
 ---
